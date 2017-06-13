@@ -1,0 +1,2 @@
+https://thevogonpoet.wordpress.com/2012/09/02/writing-a-brainfuck-interpretter-in-python/
+https://github.com/pocmo/Python-Brainfuck/blob/master/brainfuck.py
